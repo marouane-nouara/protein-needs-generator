@@ -1,10 +1,10 @@
-# 🥩 Générateur dynamique de besoins en protéines
+#  Générateur dynamique de besoins en protéines
 
 Application React permettant de générer dynamiquement un tableau de besoins journaliers en protéines en fonction des paramètres choisis par l'utilisateur.
 
 ---
 
-## 🛠️ Outils nécessaires pour lancer le projet
+##  Outils nécessaires pour lancer le projet
 
 | Outil     | Version utilisée |
 |-----------|-----------------|
@@ -20,7 +20,7 @@ npm -v
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 Clonez le dépôt puis installez les dépendances :
 
@@ -32,7 +32,7 @@ npm install
 
 ---
 
-## ▶️ Lancer le projet en développement
+##  Lancer le projet en développement
 
 ```bash
 npm run dev
@@ -46,13 +46,13 @@ http://localhost:5173
 
 ---
 
-## 📦 Build pour la production
+##  Build pour la production
 
 ```bash
 npm run build
 ```
 
-## 🔍 Prévisualiser le build de production
+##  Prévisualiser le build de production
 
 ```bash
 npm run preview
@@ -60,7 +60,7 @@ npm run preview
 
 ---
 
-## 🧩 Fonctionnalités
+##  Fonctionnalités
 
 - **Sélection multi-objectifs** : Sédentaire, Endurance, Conservation ou Prise de masse
 - **Paramétrage dynamique** : poids minimum, poids maximum, nombre de lignes
@@ -71,7 +71,7 @@ npm run preview
 
 ---
 
-## 📁 Structure du projet
+##  Structure du projet
 
 ```
 protein-needs-generator/
@@ -92,6 +92,6 @@ protein-needs-generator/
 
 ---
 
-## ⚠️ Important
+##  Important
 
 Ne pas inclure le dossier `node_modules` dans le rendu !
