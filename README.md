@@ -8,8 +8,8 @@ Application React permettant de générer dynamiquement un tableau de besoins jo
 
 | Outil     | Version utilisée |
 |-----------|-----------------|
-| Node.js   | v20.11.0        |
-| npm       | v10.2.4         |
+| Node.js   | v24.13.1        |
+| npm       | v11.8.0         |
 
 Vérifiez vos versions installées :
 
