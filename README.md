@@ -4,7 +4,7 @@ Application React permettant de générer dynamiquement un tableau de besoins jo
 
 ---
 
-##  Outils nécessaires pour lancer le projet
+##  Outils nécessaires pour lancer le projet (à installer) 
 
 | Outil     | Version utilisée |
 |-----------|-----------------|
